@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathvik SP</h1>
-<h3 align="center">A passionate developer from India 🇮🇳 </h3>
+<h3 align="center">A passionate developer from India</h3>
 
 # 💫 About Me:
 -🌱 I’m currently learning **Flutter & dart**<br><br>- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/11u9T2qQXHiQCj2UT5kVytiHHgmP4JZh5/view?usp=sharing)<br><br>- 💻 All of my projects are available on [GitHub](https://github.com/sathvik-sp)<br><br>- 💬 Ask me about **Programming, Flutter Development**<br><br>- 📫 Reach out to me at **sathviksp123@gmail.com**<br>
