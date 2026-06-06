@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sathish KP</h1>
+<h1 align="center">Hi 👋, I'm Sathvik SP</h1>
 <h3 align="center">DevOps & SRE Engineer | Azure | AWS | Kubernetes | Terraform | CI/CD</h3>💫 About Me
 
 🔭 Currently working on cloud infrastructure automation, operational tooling, and reliability engineering
