@@ -9,10 +9,10 @@
 - 🌱 Currently learning Advanced Kubernetes, Platform Engineering, and Site Reliability Engineering
 - 👯 Looking to collaborate on DevOps, Cloud, Kubernetes, and Infrastructure as Code projects
 - 💬 Ask me about Azure, AWS, Terraform, Kubernetes, Docker, Jenkins, Linux, Python, CI/CD, and Production Support
-- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1n3TF9Bvt2eZDXztkllJ_zp9JqlD4SwmL/view?usp=drivesdk)
-- 💻 Projects: [GitHub Repositories](https://github.com/sathvik-sp)
+- 📄 Resume: [Resume](https://drive.google.com/file/d/1n3TF9Bvt2eZDXztkllJ_zp9JqlD4SwmL/view?usp=drivesdk)
+- 💻 Projects: [GitHub](https://github.com/sathvik-sp)
 - 📫 Reach me at: sathviksp123@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/sathp](https://www.linkedin.com/in/sathviksp)
+- 🔗 LinkedIn: [link](https://www.linkedin.com/in/sathviksp)
 
 ---
 
