@@ -1,18 +1,58 @@
-<h1 align="center">Hi 👋, I'm Sathvik SP</h1>
-<h3 align="center">A passionate developer from India </h3>
+<h1 align="center">Hi 👋, I'm Sathish KP</h1>
+<h3 align="center">DevOps & SRE Engineer | Azure | AWS | Kubernetes | Terraform | CI/CD</h3>💫 About Me
 
-# 💫 About Me:
--🌱 I’m currently learning **Flutter & dart**<br><br>- 📑 Check out my resume here - [My Resume](link)<br><br>- 💻 All of my projects are available on [GitHub](https://github.com/sathvik-sp)<br><br>- 💬 Ask me about **Programming, Flutter Development**<br><br>- 📫 Reach out to me at **sathviksp123@gmail.com**<br>
+🔭 Currently working on cloud infrastructure automation, operational tooling, and reliability engineering
 
+🌱 Currently learning Advanced Kubernetes, Platform Engineering, and Site Reliability Engineering
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sathvik-sp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sathvik-sp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik-sp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+👯 Looking to collaborate on DevOps, Cloud, Kubernetes, and Infrastructure as Code projects
+
+💬 Ask me about Azure, AWS, Terraform, Kubernetes, Docker, Jenkins, Linux, Python, CI/CD, and Production Support
+
+📄 Resume: "My Resume" (YOUR_RESUME_LINK)
+
+💻 Projects: "GitHub Repositories" (https://github.com/sathvik-sp)
+
+📫 Reach me at: sathviksp123@gmail.com
+
+🔗 LinkedIn: YOUR_LINKEDIN_PROFILE_URL
+
+🚀 Featured Projects
+
+End-to-End DevOps Pipeline on Azure
+
+Built an end-to-end DevOps pipeline using Terraform, Azure DevOps, Docker, Kubernetes (AKS), and Ansible.
+
+Azure & AWS Cloud Cost Optimization
+
+Analyzed and optimized cloud resources across Azure and AWS environments using infrastructure utilization data.
+
+AI-Based Bridge Call Summary Automation
+
+Developed an AI-powered solution to automate post-incident reporting and documentation workflows.
+
+Automated Jira Ticket Creation
+
+Built an automation workflow to create Jira incident tickets from alerts and incident emails.
+
+💻 Tech Stack
+
+"Microsoft Azure" (https://img.shields.io/badge/Microsoft_Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
+"AWS" (https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white)
+"Terraform" (https://img.shields.io/badge/Terraform-623CE4?style=plastic&logo=terraform&logoColor=white)
+"Kubernetes" (https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
+"Docker" (https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+"Azure DevOps" (https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
+"Jenkins" (https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white)
+"Ansible" (https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white)
+"Linux" (https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+"Bash" (https://img.shields.io/badge/Bash_Scripting-121011?style=plastic&logo=gnu-bash&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
+"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sathvik-sp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ Interested in DevOps, Site Reliability Engineering, Cloud Infrastructure, Automation, and Platform Engineering.
